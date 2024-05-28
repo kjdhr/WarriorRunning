@@ -3,11 +3,7 @@ guid: 005d61280f8b42a409f0a6a3546a9a9a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-<<<<<<< HEAD
-  serializedVersion: 13
-=======
   serializedVersion: 11
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -24,19 +20,11 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-<<<<<<< HEAD
-    flipGreenChannel: 0
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-<<<<<<< HEAD
-  ignoreMipmapLimit: 0
-=======
   ignoreMasterTextureLimit: 0
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -48,15 +36,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-<<<<<<< HEAD
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-=======
     wrapU: 1
     wrapV: 1
     wrapW: 1
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -81,11 +63,6 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-<<<<<<< HEAD
-  swizzle: 50462976
-  cookieLightType: 1
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -97,10 +74,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<< HEAD
-    ignorePlatformSupport: 0
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -113,10 +86,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<< HEAD
-    ignorePlatformSupport: 0
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -129,10 +98,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<< HEAD
-    ignorePlatformSupport: 0
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -145,49 +110,6 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-<<<<<<< HEAD
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: iPhone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: tvOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-=======
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -204,14 +126,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable: {}
-<<<<<<< HEAD
-  mipmapLimitGroupName: 
-  pSDRemoveMatte: 0
-=======
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
->>>>>>> 7727d5acf9ceb844b47c323307f16db8f15dae4a
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -33,6 +33,12 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("InGame");
     }
 
+    //버튼 키다운 실행용 게임 종료 함수
+    public void EndGame()
+    {
+        UnityEditor.EditorApplication.isPlaying = false;
+        //Application.Quit();
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +49,6 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
